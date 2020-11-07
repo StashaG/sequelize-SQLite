@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-SQLite",
+  "version": "1.0.0",
+  "description": "Creating a project installing sequelize and SQLite",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StashaG/sequelize-SQLite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StashaG/sequelize-SQLite/issues"
+  },
+  "homepage": "https://github.com/StashaG/sequelize-SQLite#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
