@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Creating a project installing sequelize and SQLite",
   "main": "app.js",
-  "dependencies": {},
+  "dependencies": {
+    "sequelize": "^5.22.3",
+    "sqlite3": "^4.2.0"
+  },
   "devDependencies": {
     "nodemon": "^2.0.6"
   },
